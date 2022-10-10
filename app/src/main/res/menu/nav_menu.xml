@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/log"
+        android:icon="@drawable/ic_twotone_format_list_bulleted_24"
+        android:title="Log" />
+    <item
+        android:id="@+id/summary"
+        android:icon="@drawable/ic_twotone_insights_24"
+        android:title="Dashboard" />
+</menu>
