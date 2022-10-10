@@ -2,7 +2,7 @@
 
 Submitted by: **Ashley Haynes**
 
-**BitFit** is a health metrics app that allows users to track ... [TODO] 
+**BitFit** is a health metrics app that allows users to track the food you eat as well as the calories.
 
 Time spent: **4.5** hours spent in total
 
@@ -11,7 +11,7 @@ Time spent: **4.5** hours spent in total
 The following **required** functionality is completed:
 
 - [x] **At least one health metric is tracked (based on user input)**
-  - Chosen metric(s): `[TODO: FILL ME IN TO GET CREDIT]`
+  - Chosen metric(s): Food and Calories
 - [x] **There is a "create entry" UI that prompts users to make their daily entry**
 - [x] **New entries are saved in a database and then updated in the RecyclerView**
 - [x] **On application restart, previously entered entries are preserved (i.e., are *persistent*)**
@@ -31,10 +31,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://www.loom.com/share/5ada4fb2aa5f4f79956c3b8819447d0d
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with Loom  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
